@@ -1,0 +1,40 @@
+.my_jumbotron_info{
+	background-color: rgba(44, 44, 113, 0.8);
+	border-color: rgb(101, 101, 101);
+}
+
+
+.my_jumbotron_reader {
+    background-color: rgba(100, 100, 100, 0.9);
+}
+
+.story_reader {
+	background-color : rgba(247, 247, 247, 1);
+	/* background-color : rgba(22, 250, 250, 1); */
+	width: 700px;
+}
+
+ .story_paragraph p {
+	text-align : justify;
+	line-height:2;
+}
+
+.backgroundFlash{
+	background: #F00;
+}
+
+.story_paragraph{
+	-webkit-transition: background 1.0s ease-in-out;
+	-ms-transition:     background 1.0s ease-in-out;
+	transition:         background 1.0s ease-in-out;
+}
+
+.story_title{
+	font-family: 'Arima Madurai', cursive;
+	font-size: 30px;
+}
+
+.story_chapter_title{
+	font-family: 'Arima Madurai', cursive;
+	font-size: 30px;
+}

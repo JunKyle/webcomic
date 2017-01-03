@@ -1,0 +1,44 @@
+.jumbotron h3{
+	font-size:18px;
+	margin-top: 0px;
+}
+
+.story_home_list{
+	border-style: solid;
+	border-width: 0px;
+	border-radius:5px;
+	/* border-color : rgba(44, 44, 113, 0.5); */
+	background-color:#eee;
+}
+
+.story_link
+{
+	text-align : left;	
+}
+
+.story_link a
+{
+	color : black;
+	font-size:12px;	
+}
+
+.story_read_button .btn
+{
+	font-size : 20px;
+}
+
+.story_home_list h2{
+	font-family: 'Arima Madurai', cursive;
+	font-size: 30px;
+	text-align : justify;
+}
+
+.story_home_list h3{
+	text-align : center;
+    margin-top: 0px;
+	font-size: 20px;
+}
+
+.story_description p{
+	text-align : justify;
+}

@@ -1,0 +1,22 @@
+.form-comment {
+	border: 1px outset #EEE;
+	border-radius: 6px;
+	padding : 10px;
+	background-color : rgba(170, 228, 222, 0.53)
+}
+
+.list-group-item {
+    padding: 5px 8px;
+	background-color: #fff;
+	border: 1px solid #868686;
+}
+
+.list-group-item h3 {
+    font-size: 15px;
+	margin-top: 10px;
+}
+
+.list-group-item h3 a{
+    font-size: 28px;
+	color: #A70048;
+}

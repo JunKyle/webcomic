@@ -1,0 +1,18 @@
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+    color: #fff;
+    background-color: #464646;
+    border-color: #464646;
+}
+
+.pagination > li > a, .pagination > li > span{
+    color: #FF0000;
+}
+
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+  color: #734848;
+  background-color: #eee;
+  border-color: #ddd;
+}

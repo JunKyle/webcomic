@@ -1,0 +1,33 @@
+/** JUMBOTRON **/
+
+.my_jumbotron_reader {
+	background-color : rgba(0, 0, 0, 0.9);
+}
+
+.my_jumbotron_info {
+	/* background-image: url("../images/backrgound_design_website2.png");
+	background-size: 100%; 
+	background-color : rgba(128, 0, 0, 0.75);*/
+	background-color : rgba(167, 0, 72, 1);
+	border-style: outset;
+    border-width: 3px;
+	border-color: rgb(153, 0, 0);
+	
+	padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 6px;
+}
+
+.my_jumbotron_info h2{
+	color : white;
+}
+ .my_jumbotron_info p{
+	color: #eee;
+	font-size: 16px;
+}
